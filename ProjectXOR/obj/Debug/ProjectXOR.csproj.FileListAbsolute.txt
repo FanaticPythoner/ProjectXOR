@@ -1,0 +1,10 @@
+M:\Projects\C# ProjectXOR\XORfind\XORfind\bin\Debug\XORfind.exe.config
+M:\Projects\C# ProjectXOR\XORfind\XORfind\bin\Debug\XORfind.exe
+M:\Projects\C# ProjectXOR\XORfind\XORfind\bin\Debug\XORfind.pdb
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\ProjectXOR.csprojAssemblyReference.cache
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\XORfind.FrmMain.resources
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\XORfind.Properties.Resources.resources
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\ProjectXOR.csproj.GenerateResource.cache
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\ProjectXOR.csproj.CoreCompileInputs.cache
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\XORfind.exe
+M:\Projects\C# ProjectXOR\XORfind\XORfind\obj\Debug\XORfind.pdb
