@@ -5,7 +5,7 @@ Heavily multithreaded tool for bruteforcing XOR Encryption. Multiple options ava
 
 - ProjectXOR language dictionaries contain irrelevant words, because they are free dictionaries I found on the Internet. They aren't paid dictionaries. I am planning to remove the irrelevant words in a near future.
 
-- For now, ProjectXOR only support a single character Bruteforce. For example, it cannot bruteforce the string "My name is FanaticPythoner" with the string "abcdefghijklmnopqrstuvwxyzz". I am planning to implement that functionality in a near future.
+- For now, ProjectXOR only support a single character Bruteforce. For example, it cannot bruteforce the string "My name is FanaticPythoner." with the string "abcdefghijklmnopqrstuvwxyzz". I am planning to implement that functionality in a near future.
 
 # Installation :
 
