@@ -18,9 +18,9 @@ Well it is pretty damn easy to use. When you run the Xorfind.exe file, this GUI 
 ![alt text](https://i.imgur.com/YAyAvsf.png)
 
 
-As you can notice, about the only thing you can do is enter the string you want to Xor (in Hexadecimal) in the "initial text" text field. As an example, let's enter the sentence "My name is FanaticPythoner." with each character xor'd with the letter "A", giving us the Hexadecimal string "2c18410f000c044108124127000f00150802311815090e0f04134f". Now, the section "Type" and "Language" are available for modification:
+As you can notice, about the only thing you can do is enter the string you want to Xor (in Hexadecimal) in the "initial text" text field. As an example, let's enter the sentence "My name is FanaticPythoner." with each character xor'd with the letter "a", giving us the Hexadecimal string "2c18410f000c044108124127000f00150802311815090e0f04134f". Now, the section "Type" and "Language" are available for modification:
 
-- The "Type" section specify the type of bruteforce. We can either specify a bit range (1 to 64), or a specific character (example "A").
+- The "Type" section specify the type of bruteforce. We can either specify a bit range (1 to 64), or a specific character (example "a").
 
 - The "Language" section specify what language the software must lookup in when it tries to find similiarities between the UnXor'd string and words in a language dictionnary. ProjectXOR classes UnXor'd string in the output file by similarities between a dictionnary of words and the UnXor'd string. Currently, ProjectXOR supports French and English. We can either chose one of them, or all of them with the "search in all languages" option.
 
