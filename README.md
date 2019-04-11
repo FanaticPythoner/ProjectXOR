@@ -5,6 +5,8 @@ Heavily multithreaded tool for bruteforcing XOR Encryption. Multiple options ava
 
 - ProjectXOR language dictionaries contain irrelevant words, because they are free dictionaries I found on the Internet. They aren't paid dictionaries. I am planning to remove the irrelevant words in a near future.
 
+- For now, ProjectXOR only support a single character Bruteforce. For example, it cannot bruteforce the string "My name is FanaticPythoner" with the string "abcdefghijklmnopqrstuvwxyzz". I am planning to implement that functionality in a near future.
+
 # Installation :
 
 Well the software is made in C#, so you need the .NET Framwework installed( If you don't have it installed, when you wil try to open the software, Windows will give you the choice to install it). Run the Xorfind.exe file in the bin/Debug folder. If you dont trust the compiled executable, just re-build it through Visual Studio. You have access to the source code.
