@@ -29,6 +29,16 @@ The "Encoding in file" option is pretty straight foward: It specify what encodin
 
 The "output" option specify the path of the output text file wich will contain all the UnXor'd string in UTF-32 format. All UnXor'd string will be ordered by the number of words ProjectXOR find in the specified language dictionary (English) that are present in the UnXor'd string.
 
-Lets click the "..." button in the "output" option to chose the output text file path. Here, let's specify the "outputFile.txt" file on my desktop (if it already exists, ProjectXOR will overwrite it. If it doesn't exist, ProjectXOR will create it).
+Lets click the "..." button in the "output" option to chose the output text file path. Here, let's specify the "outputFile.txt" file on my desktop (if it already exists, ProjectXOR will overwrite it. If it doesn't exists, ProjectXOR will create it).
 
 ![alt text](https://i.imgur.com/UhyEV8N.png)
+
+Now we can click the "Process" button and let the magic happen. When the process is done, a little message box will appear, telling us how long it took for the process to complete.
+
+### WARNING : This is a Heavily Mulithreaded software, so if you specified, for example, a 64 bits bruteforce, it will literally use 100% of your processing power for quite a long time: that mean your PC can become unresponsive during the Bruteforce.
+
+![alt text](https://i.imgur.com/Q8EUrro.png)
+
+As we can see, it only took 0.7 second to do a 8 bits bruteforce on our sentence. If we click "Ok", the output text file we specified in the "output" option will open, and we will see our decrypted sentence "My name is FanaticPythoner." as the top result :
+
+![alt text](https://i.imgur.com/l674DY8.png)
